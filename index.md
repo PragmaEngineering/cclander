@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## We're creating a bold new platform for technical interviews
 
 You can use the [editor on GitHub](https://github.com/PragmaEngineering/cclander/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
