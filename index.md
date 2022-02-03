@@ -12,3 +12,5 @@ We're in early stages but moving quickly. We're looking for engineering managers
 ### Founders
 
 CollabCode is being built by engineers and product managers with backgrounds at companies such as Apple, Airbnb, Pinterest, Magic Leap, and IBM.
+
+Want to chat? [send us a message](https://forms.gle/W7Fe9aFAqqZ63g1BA).
