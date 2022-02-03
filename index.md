@@ -1,27 +1,14 @@
 ## We're creating a bold new platform for technical interviews
 
-You can use the [editor on GitHub](https://github.com/PragmaEngineering/cclander/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We believe the status quo for tech hiring is broken. Algorithm/Leetcode puzzles fail to have any relevance to the 99% of work that is software development and they also exclude very talented engineers who are rich on experience but don't invest 10s to 100s of hours in the *leetCode Grind*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're changing that.
 
 ### Curious?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We're in early stages but moving quickly. We're looking for engineering managers and others involved in the tech hiring process to answer a few questions [on this Google form](http://www.todo.com)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Founders
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+CollabCode is being built by engineers and product managers with backgrounds at companies such as Apple, Airbnb, Pinterest, Magic Leap, and IBM.
